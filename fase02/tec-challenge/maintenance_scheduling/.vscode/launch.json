@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Virtual Env",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "console": "integratedTerminal"
+        }
+                
+    ]
+}
+

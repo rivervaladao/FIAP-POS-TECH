@@ -1,0 +1,5 @@
+centro_trabalho,matricula,nome,grau_utilizacao_ct,distribuicao,tipo_turno,inicio_vigencia,hora_inicio_trabalho,horas_trabalho,fim_vigencia,horas_folga,dia,hora_inicio,hora_inicio_intervalo,hora_fim_intervalo,hora_fim,hora_total,qualificacao
+B211-MEC,3,Rafael Poli,85,20,TURNO_SEMANAL,"00:00,0",,,"00:00,0",,1,08:00,12:00,13:00,17:00,08:00,NR13 / NR10 - 2024 / EPI
+BM_EELET,3,Rafael Poli,95,40,TURNO_SEMANAL,"00:00,0",,,"00:00,0",,1,08:00,12:00,13:00,17:00,08:00,NR13 / NR10 - 2024 / EPI
+CT_ADM,3,Rafael Poli,100,20,TURNO_SEMANAL,"00:00,0",,,"00:00,0",,5,08:00,12:00,13:00,17:00,08:00,NR13 / NR10 - 2024 / EPI
+ITSS_JL,3,Rafael Poli,77,20,TURNO_SEMANAL,"00:00,0",,,"00:00,0",,1,08:00,12:00,13:00,17:00,08:00,NR13 / NR10 - 2024 / EPI

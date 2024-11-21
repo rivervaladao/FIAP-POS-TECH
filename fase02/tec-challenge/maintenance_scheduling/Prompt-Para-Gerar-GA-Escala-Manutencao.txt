@@ -1,0 +1,65 @@
+# Prompt: Escalonamento de Turnos com CSP e DEAP
+
+Você é um especialista em Constraint Satisfaction Problem (CSP) e deve resolver um problema de agendamento de turnos de funcionários utilizando o framework Python DEAP. Sua tarefa é gerar uma escala de execução das ordens de serviço (OS) para as datas especificadas, respeitando as restrições descritas.
+
+O programa deverá processar três arquivos de entrada: `ordens_manutencao.csv`, `disponibilidade.csv` e `historico_manutencao.csv`, conforme descrito a seguir:
+
+## Estrutura dos Arquivos de Entrada
+
+### 1. `ordens_manutencao.csv`
+- **ordem**: ID único da ordem de serviço.
+- **operacao**: Código da operação a ser executada, que exige uma equipe definida no campo `centro_trabalho`.
+- **centro_trabalho_id**: ID único da equipe responsável pela operação.
+- **centro_trabalho**: Nome do centro de trabalho.
+- **quantidade_executantes**: Número de funcionários necessários para realizar a operação.
+- **esforco_individual**: Tempo estimado para a execução da operação (em unidades especificadas no campo `unidade`).
+- **unidade**: Unidade de tempo usada no campo `esforco_individual` (ex.: H para horas).
+- **equipamento_ordem**: ID único do equipamento que receberá manutenção.
+- **qualificacao**: Lista de qualificações/habilidades necessárias para realizar a operação (separadas por `/`).
+- **indice_irpe**: Prioridade de execução da ordem (valores maiores indicam maior prioridade).
+- **data_inicio_base** e **hora_inicio_base**: Data e horário previstos para início.
+- **data_fim_base** e **hora_fim_base**: Data e horário previstos para término.
+
+### 2. `disponibilidade.csv`
+- **centro_trabalho**: Nome do centro de trabalho.
+- **matricula**: ID único do funcionário.
+- **nome**: Nome do funcionário.
+- **grau_utilizacao_ct**: Percentual de horas úteis já utilizadas pelo funcionário.
+- **qualificacao**: Certificações do funcionário (separadas por `/`).
+- **hora_total**: Horas disponíveis para trabalho no turno atual.
+- **hora_inicio** e **hora_fim**: Horário normal de início e fim do turno.
+- **hora_inicio_intervalo** e **hora_fim_intervalo**: Horários de início e fim do intervalo.
+- **horas_trabalho**: Total de horas de trabalho diário.
+- **dia**: Dia da semana em que o funcionário está disponível (1 = segunda-feira, ..., 7 = domingo).
+
+### 3. `historico_manutencao.csv`
+- **matricula**: ID do funcionário.
+- **data_inicio_execucao**: Data de início da execução.
+- **equipamento**: ID do equipamento que recebeu manutenção.
+- **trabalho_real**: Tempo gasto na execução.
+
+## Restrições
+
+1. As ordens devem ser priorizadas pelo campo **indice_irpe**.
+2. O número de funcionários alocados deve corresponder a **quantidade_executantes**.
+3. Os funcionários devem possuir as qualificações listadas no campo **qualificacao**.
+4. Caso não haja qualificação definida, o funcionário com maior histórico de manutenção no equipamento especificado deve ser selecionado (com base no `historico_manutencao.csv`).
+5. Funcionários podem ser alocados para múltiplas ordens, desde que o tempo total alocado não exceda **hora_total** disponível.
+6. As operações devem ser escaladas na ordem crescente do campo **operacao**.
+7. Funcionários podem ser alocados em múltiplas operações dentro de uma mesma ordem.
+8. A escala deve respeitar os turnos dos funcionários (definidos pelos campos **hora_inicio** e **hora_fim**).
+9. O agendamento deve respeitar intervalos de descanso e os turnos configurados.
+
+## Resultado Esperado
+
+O programa deve gerar uma tabela com as seguintes colunas:
+
+- **ordem**: ID da ordem de serviço.
+- **operacao**: Código da operação.
+- **[matriculas]**: Lista de IDs dos funcionários alocados.
+- **data_inicio_base**: Data de início da operação.
+- **horario_alocado**: Horário alocado para execução.
+
+## Instruções Adicionais
+
+Implemente o algoritmo no framework DEAP de forma que ele atenda às restrições descritas e gere um agendamento otimizado para as ordens de serviço.
