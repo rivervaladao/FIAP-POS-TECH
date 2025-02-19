@@ -63,3 +63,11 @@ O programa deve gerar uma tabela com as seguintes colunas:
 ## Instruções Adicionais
 
 Implemente o algoritmo no framework DEAP de forma que ele atenda às restrições descritas e gere um agendamento otimizado para as ordens de serviço.
+
+----- fim prompt
+
+### Referências:
+https://www.geeksforgeeks.org/constraint-satisfaction-problems-csp-in-artificial-intelligence/
+https://github.com/dwave-examples/nurse-scheduling
+https://github.com/ordenador/genetic-shift-scheduler
+https://github.com/markshapiro/schedule-planning-genetic-algorithm

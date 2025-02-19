@@ -1,0 +1,4 @@
+deepface
+tf-keras
+opencv-python-headless
+tensorflow[and-cuda]

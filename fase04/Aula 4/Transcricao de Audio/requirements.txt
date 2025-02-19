@@ -1,0 +1,5 @@
+moviepy
+SpeechRecognition
+pydub
+openai-whisper
+pyaudio
