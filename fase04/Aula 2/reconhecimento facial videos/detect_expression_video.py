@@ -58,9 +58,10 @@ def detect_emotions(video_path, output_path):
     cv2.destroyAllWindows()
 
 # Caminho para o arquivo de vídeo na mesma pasta do script
-script_dir = os.path.dirname(os.path.abspath(__file__))
-input_video_path = os.path.join(script_dir, 'video.mp4')  # Substitua 'meu_video.mp4' pelo nome do seu vídeo
-output_video_path = os.path.join(script_dir, 'output_video.mp4')  # Nome do vídeo de saída
-
+# script_dir = os.path.dirname(os.path.abspath(__file__))
+# input_video_path = os.path.join(script_dir, 'video.mp4')  # Substitua 'meu_video.mp4' pelo nome do seu vídeo
+# output_video_path = os.path.join(script_dir, 'output_video.mp4')  # Nome do vídeo de saída
+input_video_path ='/home/river/Videos/fase04_tecchallenge_video.mp4'
+output_video_path ='/home/river/Videos/video_anotado.mp4'
 # Chamar a função para detectar emoções no vídeo e salvar o vídeo processado
 detect_emotions(input_video_path, output_video_path)

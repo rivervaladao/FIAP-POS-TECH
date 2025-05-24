@@ -1,0 +1,150 @@
+2025-04-22 22:16:03,528 - DEBUG - Detectado: knife com confiança 0.85
+2025-04-22 22:16:03,529 - DEBUG - Alerta: Detectado: knife com confiança 0.85
+2025-04-22 22:17:23,914 - DEBUG - Detectado: scissors com confiança 0.88
+2025-04-22 22:17:23,914 - DEBUG - Alerta: Detectado: scissors com confiança 0.88
+2025-04-22 22:17:50,016 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:03
+2025-04-22 22:17:50,017 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:03
+2025-04-22 22:17:50,066 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:03
+2025-04-22 22:17:50,066 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:03
+2025-04-22 22:17:50,792 - DEBUG - Detectado: knife com confiança 0.56 em 00:00:04
+2025-04-22 22:17:50,792 - DEBUG - Alerta: Detectado: knife com confiança 0.56 em 00:00:04
+2025-04-22 22:17:52,534 - DEBUG - Detectado: knife com confiança 0.63 em 00:00:06
+2025-04-22 22:17:52,534 - DEBUG - Alerta: Detectado: knife com confiança 0.63 em 00:00:06
+2025-04-22 22:17:52,586 - DEBUG - Detectado: knife com confiança 0.66 em 00:00:06
+2025-04-22 22:17:52,586 - DEBUG - Alerta: Detectado: knife com confiança 0.66 em 00:00:06
+2025-04-22 22:17:52,641 - DEBUG - Detectado: knife com confiança 0.66 em 00:00:06
+2025-04-22 22:17:52,642 - DEBUG - Alerta: Detectado: knife com confiança 0.66 em 00:00:06
+2025-04-22 22:17:52,678 - DEBUG - Detectado: knife com confiança 0.56 em 00:00:06
+2025-04-22 22:17:52,678 - DEBUG - Alerta: Detectado: knife com confiança 0.56 em 00:00:06
+2025-04-22 22:17:52,734 - DEBUG - Detectado: knife com confiança 0.57 em 00:00:06
+2025-04-22 22:17:52,734 - DEBUG - Alerta: Detectado: knife com confiança 0.57 em 00:00:06
+2025-04-22 22:17:52,809 - DEBUG - Detectado: knife com confiança 0.56 em 00:00:06
+2025-04-22 22:17:52,810 - DEBUG - Alerta: Detectado: knife com confiança 0.56 em 00:00:06
+2025-04-22 22:17:52,844 - DEBUG - Detectado: knife com confiança 0.57 em 00:00:06
+2025-04-22 22:17:52,844 - DEBUG - Alerta: Detectado: knife com confiança 0.57 em 00:00:06
+2025-04-22 22:17:52,875 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:06
+2025-04-22 22:17:52,876 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:06
+2025-04-22 22:17:52,909 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:06
+2025-04-22 22:17:52,909 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:06
+2025-04-22 22:17:52,943 - DEBUG - Detectado: knife com confiança 0.61 em 00:00:06
+2025-04-22 22:17:52,943 - DEBUG - Alerta: Detectado: knife com confiança 0.61 em 00:00:06
+2025-04-22 22:17:52,977 - DEBUG - Detectado: knife com confiança 0.55 em 00:00:06
+2025-04-22 22:17:52,977 - DEBUG - Alerta: Detectado: knife com confiança 0.55 em 00:00:06
+2025-04-22 22:17:53,008 - DEBUG - Detectado: knife com confiança 0.56 em 00:00:06
+2025-04-22 22:17:53,008 - DEBUG - Alerta: Detectado: knife com confiança 0.56 em 00:00:06
+2025-04-22 22:17:54,440 - DEBUG - Detectado: knife com confiança 0.57 em 00:00:07
+2025-04-22 22:17:54,440 - DEBUG - Alerta: Detectado: knife com confiança 0.57 em 00:00:07
+2025-04-22 22:17:54,484 - DEBUG - Detectado: knife com confiança 0.61 em 00:00:07
+2025-04-22 22:17:54,485 - DEBUG - Alerta: Detectado: knife com confiança 0.61 em 00:00:07
+2025-04-22 22:17:54,542 - DEBUG - Detectado: knife com confiança 0.61 em 00:00:07
+2025-04-22 22:17:54,542 - DEBUG - Alerta: Detectado: knife com confiança 0.61 em 00:00:07
+2025-04-22 22:17:54,584 - DEBUG - Detectado: knife com confiança 0.68 em 00:00:07
+2025-04-22 22:17:54,584 - DEBUG - Alerta: Detectado: knife com confiança 0.68 em 00:00:07
+2025-04-22 22:17:54,618 - DEBUG - Detectado: knife com confiança 0.79 em 00:00:08
+2025-04-22 22:17:54,618 - DEBUG - Alerta: Detectado: knife com confiança 0.79 em 00:00:08
+2025-04-22 22:17:54,763 - DEBUG - Detectado: knife com confiança 0.64 em 00:00:08
+2025-04-22 22:17:54,764 - DEBUG - Alerta: Detectado: knife com confiança 0.64 em 00:00:08
+2025-04-22 22:17:54,803 - DEBUG - Detectado: knife com confiança 0.65 em 00:00:08
+2025-04-22 22:17:54,803 - DEBUG - Alerta: Detectado: knife com confiança 0.65 em 00:00:08
+2025-04-22 22:17:54,840 - DEBUG - Detectado: knife com confiança 0.58 em 00:00:08
+2025-04-22 22:17:54,841 - DEBUG - Alerta: Detectado: knife com confiança 0.58 em 00:00:08
+2025-04-22 22:17:54,902 - DEBUG - Detectado: knife com confiança 0.55 em 00:00:08
+2025-04-22 22:17:54,902 - DEBUG - Alerta: Detectado: knife com confiança 0.55 em 00:00:08
+2025-04-22 22:17:57,089 - DEBUG - Detectado: knife com confiança 0.64 em 00:00:10
+2025-04-22 22:17:57,089 - DEBUG - Alerta: Detectado: knife com confiança 0.64 em 00:00:10
+2025-04-22 22:17:57,089 - DEBUG - Detectado: knife com confiança 0.63 em 00:00:10
+2025-04-22 22:17:57,089 - DEBUG - Alerta: Detectado: knife com confiança 0.63 em 00:00:10
+2025-04-22 22:17:57,144 - DEBUG - Detectado: knife com confiança 0.64 em 00:00:10
+2025-04-22 22:17:57,144 - DEBUG - Alerta: Detectado: knife com confiança 0.64 em 00:00:10
+2025-04-22 22:17:57,144 - DEBUG - Detectado: knife com confiança 0.63 em 00:00:10
+2025-04-22 22:17:57,144 - DEBUG - Alerta: Detectado: knife com confiança 0.63 em 00:00:10
+2025-04-22 22:17:57,174 - DEBUG - Detectado: knife com confiança 0.63 em 00:00:10
+2025-04-22 22:17:57,174 - DEBUG - Alerta: Detectado: knife com confiança 0.63 em 00:00:10
+2025-04-22 22:18:00,459 - DEBUG - Detectado: knife com confiança 0.62 em 00:00:13
+2025-04-22 22:18:00,459 - DEBUG - Alerta: Detectado: knife com confiança 0.62 em 00:00:13
+2025-04-22 22:18:10,625 - DEBUG - Detectado: knife com confiança 0.58 em 00:00:22
+2025-04-22 22:18:10,625 - DEBUG - Alerta: Detectado: knife com confiança 0.58 em 00:00:22
+2025-04-22 22:18:12,633 - DEBUG - Detectado: knife com confiança 0.72 em 00:00:24
+2025-04-22 22:18:12,633 - DEBUG - Alerta: Detectado: knife com confiança 0.72 em 00:00:24
+2025-04-22 22:18:12,663 - DEBUG - Detectado: knife com confiança 0.72 em 00:00:24
+2025-04-22 22:18:12,664 - DEBUG - Alerta: Detectado: knife com confiança 0.72 em 00:00:24
+2025-04-22 22:18:12,701 - DEBUG - Detectado: knife com confiança 0.71 em 00:00:24
+2025-04-22 22:18:12,701 - DEBUG - Alerta: Detectado: knife com confiança 0.71 em 00:00:24
+2025-04-22 22:18:12,748 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:24
+2025-04-22 22:18:12,749 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:24
+2025-04-22 22:18:12,783 - DEBUG - Detectado: knife com confiança 0.61 em 00:00:24
+2025-04-22 22:18:12,783 - DEBUG - Alerta: Detectado: knife com confiança 0.61 em 00:00:24
+2025-04-22 22:18:12,985 - DEBUG - Detectado: knife com confiança 0.66 em 00:00:24
+2025-04-22 22:18:12,985 - DEBUG - Alerta: Detectado: knife com confiança 0.66 em 00:00:24
+2025-04-22 22:18:13,021 - DEBUG - Detectado: knife com confiança 0.75 em 00:00:24
+2025-04-22 22:18:13,021 - DEBUG - Alerta: Detectado: knife com confiança 0.75 em 00:00:24
+2025-04-22 22:18:13,051 - DEBUG - Detectado: knife com confiança 0.59 em 00:00:24
+2025-04-22 22:18:13,051 - DEBUG - Alerta: Detectado: knife com confiança 0.59 em 00:00:24
+2025-04-22 22:18:13,236 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:24
+2025-04-22 22:18:13,236 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:24
+2025-04-22 22:18:13,282 - DEBUG - Detectado: knife com confiança 0.73 em 00:00:24
+2025-04-22 22:18:13,282 - DEBUG - Alerta: Detectado: knife com confiança 0.73 em 00:00:24
+2025-04-22 22:18:13,323 - DEBUG - Detectado: knife com confiança 0.73 em 00:00:24
+2025-04-22 22:18:13,323 - DEBUG - Alerta: Detectado: knife com confiança 0.73 em 00:00:24
+2025-04-22 22:18:13,356 - DEBUG - Detectado: knife com confiança 0.75 em 00:00:24
+2025-04-22 22:18:13,356 - DEBUG - Alerta: Detectado: knife com confiança 0.75 em 00:00:24
+2025-04-22 22:18:13,389 - DEBUG - Detectado: knife com confiança 0.66 em 00:00:24
+2025-04-22 22:18:13,389 - DEBUG - Alerta: Detectado: knife com confiança 0.66 em 00:00:24
+2025-04-22 22:18:13,423 - DEBUG - Detectado: knife com confiança 0.80 em 00:00:24
+2025-04-22 22:18:13,423 - DEBUG - Alerta: Detectado: knife com confiança 0.80 em 00:00:24
+2025-04-22 22:18:13,461 - DEBUG - Detectado: knife com confiança 0.79 em 00:00:24
+2025-04-22 22:18:13,461 - DEBUG - Alerta: Detectado: knife com confiança 0.79 em 00:00:24
+2025-04-22 22:18:13,497 - DEBUG - Detectado: knife com confiança 0.80 em 00:00:24
+2025-04-22 22:18:13,497 - DEBUG - Alerta: Detectado: knife com confiança 0.80 em 00:00:24
+2025-04-22 22:18:13,532 - DEBUG - Detectado: knife com confiança 0.80 em 00:00:24
+2025-04-22 22:18:13,532 - DEBUG - Alerta: Detectado: knife com confiança 0.80 em 00:00:24
+2025-04-22 22:18:13,567 - DEBUG - Detectado: knife com confiança 0.68 em 00:00:25
+2025-04-22 22:18:13,567 - DEBUG - Alerta: Detectado: knife com confiança 0.68 em 00:00:25
+2025-04-22 22:18:13,604 - DEBUG - Detectado: knife com confiança 0.59 em 00:00:25
+2025-04-22 22:18:13,604 - DEBUG - Alerta: Detectado: knife com confiança 0.59 em 00:00:25
+2025-04-22 22:18:13,640 - DEBUG - Detectado: knife com confiança 0.59 em 00:00:25
+2025-04-22 22:18:13,640 - DEBUG - Alerta: Detectado: knife com confiança 0.59 em 00:00:25
+2025-04-22 22:18:13,676 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:25
+2025-04-22 22:18:13,676 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:25
+2025-04-22 22:18:13,733 - DEBUG - Detectado: knife com confiança 0.58 em 00:00:25
+2025-04-22 22:18:13,733 - DEBUG - Alerta: Detectado: knife com confiança 0.58 em 00:00:25
+2025-04-22 22:18:13,777 - DEBUG - Detectado: knife com confiança 0.66 em 00:00:25
+2025-04-22 22:18:13,777 - DEBUG - Alerta: Detectado: knife com confiança 0.66 em 00:00:25
+2025-04-22 22:18:13,816 - DEBUG - Detectado: knife com confiança 0.66 em 00:00:25
+2025-04-22 22:18:13,816 - DEBUG - Alerta: Detectado: knife com confiança 0.66 em 00:00:25
+2025-04-22 22:18:14,128 - DEBUG - Detectado: knife com confiança 0.60 em 00:00:25
+2025-04-22 22:18:14,128 - DEBUG - Alerta: Detectado: knife com confiança 0.60 em 00:00:25
+2025-04-22 22:18:14,166 - DEBUG - Detectado: knife com confiança 0.71 em 00:00:25
+2025-04-22 22:18:14,166 - DEBUG - Alerta: Detectado: knife com confiança 0.71 em 00:00:25
+2025-04-22 22:18:14,194 - DEBUG - Detectado: knife com confiança 0.75 em 00:00:25
+2025-04-22 22:18:14,195 - DEBUG - Alerta: Detectado: knife com confiança 0.75 em 00:00:25
+2025-04-22 22:18:14,234 - DEBUG - Detectado: knife com confiança 0.62 em 00:00:25
+2025-04-22 22:18:14,234 - DEBUG - Alerta: Detectado: knife com confiança 0.62 em 00:00:25
+2025-04-22 22:18:14,276 - DEBUG - Detectado: knife com confiança 0.63 em 00:00:25
+2025-04-22 22:18:14,276 - DEBUG - Alerta: Detectado: knife com confiança 0.63 em 00:00:25
+2025-04-22 22:18:14,313 - DEBUG - Detectado: knife com confiança 0.62 em 00:00:25
+2025-04-22 22:18:14,313 - DEBUG - Alerta: Detectado: knife com confiança 0.62 em 00:00:25
+2025-04-22 22:18:14,355 - DEBUG - Detectado: knife com confiança 0.64 em 00:00:25
+2025-04-22 22:18:14,355 - DEBUG - Alerta: Detectado: knife com confiança 0.64 em 00:00:25
+2025-04-22 22:18:14,399 - DEBUG - Detectado: knife com confiança 0.75 em 00:00:25
+2025-04-22 22:18:14,400 - DEBUG - Alerta: Detectado: knife com confiança 0.75 em 00:00:25
+2025-04-22 22:18:14,452 - DEBUG - Detectado: knife com confiança 0.72 em 00:00:25
+2025-04-22 22:18:14,453 - DEBUG - Alerta: Detectado: knife com confiança 0.72 em 00:00:25
+2025-04-22 22:18:14,502 - DEBUG - Detectado: knife com confiança 0.76 em 00:00:25
+2025-04-22 22:18:14,502 - DEBUG - Alerta: Detectado: knife com confiança 0.76 em 00:00:25
+2025-04-22 22:18:14,547 - DEBUG - Detectado: knife com confiança 0.78 em 00:00:25
+2025-04-22 22:18:14,548 - DEBUG - Alerta: Detectado: knife com confiança 0.78 em 00:00:25
+2025-04-22 22:18:14,583 - DEBUG - Detectado: knife com confiança 0.78 em 00:00:25
+2025-04-22 22:18:14,584 - DEBUG - Alerta: Detectado: knife com confiança 0.78 em 00:00:25
+2025-04-22 22:18:15,426 - DEBUG - Detectado: knife com confiança 0.64 em 00:00:26
+2025-04-22 22:18:15,426 - DEBUG - Alerta: Detectado: knife com confiança 0.64 em 00:00:26
+2025-04-22 22:18:15,467 - DEBUG - Detectado: knife com confiança 0.71 em 00:00:26
+2025-04-22 22:18:15,467 - DEBUG - Alerta: Detectado: knife com confiança 0.71 em 00:00:26
+2025-04-22 22:18:15,506 - DEBUG - Detectado: knife com confiança 0.75 em 00:00:26
+2025-04-22 22:18:15,506 - DEBUG - Alerta: Detectado: knife com confiança 0.75 em 00:00:26
+2025-04-22 22:18:15,538 - DEBUG - Detectado: knife com confiança 0.73 em 00:00:26
+2025-04-22 22:18:15,538 - DEBUG - Alerta: Detectado: knife com confiança 0.73 em 00:00:26
+2025-04-22 22:18:15,588 - DEBUG - Detectado: knife com confiança 0.74 em 00:00:26
+2025-04-22 22:18:15,588 - DEBUG - Alerta: Detectado: knife com confiança 0.74 em 00:00:26
+2025-04-22 22:18:15,637 - DEBUG - Detectado: knife com confiança 0.71 em 00:00:26
+2025-04-22 22:18:15,637 - DEBUG - Alerta: Detectado: knife com confiança 0.71 em 00:00:26
